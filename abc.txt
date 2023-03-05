@@ -1,1 +1,2 @@
-Hola como estas
+Archivo de texto
+para probar las distintas versiones con git
